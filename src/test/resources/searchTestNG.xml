@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"> -->
+<suite name="WestWing Automation Suite" thread-count="1"
+	parallel="classes">
+
+	<test thread-count="5" name="Search and Add to Wishlist Test">
+		<classes>
+			<class name="com.westwing.testcases.SearchTest"></class>
+		</classes>
+	</test>
+
+</suite>

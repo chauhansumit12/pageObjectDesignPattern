@@ -1,0 +1,6 @@
+com\westwing\pageFunctions\WestWingLoginFormPageFunctions.class
+com\westwing\pageFunctions\WestWingHomePageFunctions.class
+com\westwing\locators\WestWingLoginPage.class
+com\westwing\locators\WestWingHomePage.class
+com\westwing\testcases\SearchTest.class
+com\westwing\locators\WestWingSearchComponent.class
