@@ -2,8 +2,9 @@ This is an Maven Project which would run on Windows machines as I have used Chro
 Framwork used is  Page Object model .
 System requirements:
 
-JDK 1.8 or higher
+JDK 1.8 
 Windows OS
+ChromeBrowser Version 91.0.4472.77
 
 
 To execute test cases from command line:
